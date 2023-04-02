@@ -1,6 +1,5 @@
-esta es la historia de la vida de ivan caro
+esta es la historia de ivan caro
 pruebas de versiones de git
-tengo 30 años y vivo en yopal casanare
-estudiando git
+tengo 31 años
 
-hablaremos de su vida e historia
+mañana nos enfocaremos en su vida laboral
