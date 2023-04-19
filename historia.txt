@@ -1,7 +1,8 @@
-esta es la historia de ivan caro
+esta es la historia de la vida de ivan caro
 pruebas de versiones de git
-tengo 31 años
+tengo 30 años y vivo en yopal casanare
 
-mañana nos enfocaremos en su vida laboral
 
-quiere realizar maestria de ciencia de datos
+estudiando git
+Estudiando Java y Ciencia de datos
+Vida laboral en Bases de datos Oracle.
